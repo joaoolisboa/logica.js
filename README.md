@@ -1,1 +1,2 @@
-Uma calculadora IMC feita em js
+ - Mini projetos de lógica de programação.
+ - Todos em referência ao canal > https://www.youtube.com/@FernandoLeonid
